@@ -1,0 +1,4 @@
+1,Binayak Bhattarai,9876230987,binayak@gmail.com
+2,Sarita Poudel,987622309,sarita@gmail.com
+4,Sadikshya Ghimire,9821769923,sadikshyaghimire@gmail.com
+5,Ramesh Rai,98764530242,rameshrai@gmail.com
